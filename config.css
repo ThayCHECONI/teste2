@@ -2,7 +2,7 @@
 /*define a borda, padding, cor de fundo e arredondamento de borda do conteiner*/
 
 .cont {
-    border: 1px solid #ccc;
+    border: 1px solid rgb(255, 74, 149), 204, 204);
     padding: 10px;
     margin: 10px;
     background: #8BA9E8;
@@ -13,7 +13,7 @@
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
-    background: #7623b9;
+    background: #ff6bc1;
     border-radius: 10px;
 }
 
